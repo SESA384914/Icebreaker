@@ -1,4 +1,4 @@
-name: CI Build for Docker Action
+name: acton docker
 on:
   push:
     branches: [ main ]
